@@ -21,8 +21,15 @@ Filas finales: 1,007,913
 
 Decisión documentada: se conservaron las filas sin Customer ID, ya que no afectan el análisis de ingresos y ventas generales.
 
-
 Insights principales
+
+Ingreso mensual
+
+<img width="1189" height="490" alt="3bf21627-d3e2-4c41-b0e4-518159c04f54" src="https://github.com/user-attachments/assets/071aa5c4-7174-44e3-9a44-4821df3cff11" />
+
+Top 10 países por ingreso, excluyendo Reino Unido
+
+<img width="989" height="590" alt="2713c263-4ef9-4e97-a967-32448d9a57ca" src="https://github.com/user-attachments/assets/e7b168db-3bc4-4300-b544-fe12ff166c3b" />
 
 Ingreso total: £20,476,260.45
 
